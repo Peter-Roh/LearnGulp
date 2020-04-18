@@ -1,0 +1,15 @@
+{
+	"name": "gulp",
+	"version": "1.0.0",
+	"description": "Learn Gulp by building an awesome development environment",
+	"scripts": {
+		"dev": "gulp dev",
+		"build": "gulp build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Peter-Roh/Gulp.git"
+	},
+	"author": "",
+	"license": "ISC"
+}
